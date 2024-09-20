@@ -9,6 +9,7 @@ function App() {
       {nombre}
       {nombre}
       {nombre}
+      {nombre}
     </div>
   );
 }
